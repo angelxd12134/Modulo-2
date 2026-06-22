@@ -1,0 +1,9 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+Es importante y beneficioso para las comunidades desarrollen nuevas
+herramientas gracias a programas y software libre como lo es 
+node.js gracias a estas las personas pueden crear proyectos que 
+beneficien a sus comunidades como por ejemplo sitios web donde se 
+reporten novendades en un barrio o una donde se registren
+recursos monetarios para construir parques entre muchos mas que
+gracias a estas herramientas gratuitas se crean mejores espacios 
+tanto digitales y en el mundo.
