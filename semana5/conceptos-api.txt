@@ -1,0 +1,10 @@
+Esta ruta establece un punto de acceso o endpoint en el servidor
+utilizando el método HTTP POST bajo la dirección /reporte. Su 
+funcion principal es escuchar y recibir la información que los
+usuarios o las aplicaciones envían de forma segura en el cuerpo
+de la solicitud, la cual se captura mediante la propiedad
+req.body.mensaje. Una vez que el servidor procesa estos datos,
+enera una respuesta inmediata en formato JSON hacia el cliente;
+esta respuesta funciona como un acuse de recibo que confirma
+que la operación fue exitosa, devolviendo el estado de "Reporte
+recibido" junto con el texto exacto del mensaje que fue enviado originalmente.
